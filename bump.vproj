@@ -1,0 +1,8 @@
+version: '0.0.1'
+packable: true
+author:
+- name: Yuuki Wesp
+  github: '0xF6'
+license: MIT license
+packages:
+- std@0.12.2

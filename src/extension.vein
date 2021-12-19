@@ -1,0 +1,11 @@
+#use "vein/lang"
+
+#space "bumper"
+
+public class Bump 
+{
+    public static beforeBuild(): void
+    {
+
+    }
+}
